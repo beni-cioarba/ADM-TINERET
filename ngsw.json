@@ -1,0 +1,132 @@
+{
+  "configVersion": 1,
+  "timestamp": 1779521442457,
+  "index": "/ADM-TINERET/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/chunk-6T22TRAT.js",
+        "/ADM-TINERET/chunk-7EPM3C6Q.js",
+        "/ADM-TINERET/chunk-7I7ANBRH.js",
+        "/ADM-TINERET/chunk-AWYEOORA.js",
+        "/ADM-TINERET/chunk-DHETAKPV.js",
+        "/ADM-TINERET/chunk-ETTZ5CGD.js",
+        "/ADM-TINERET/chunk-GNJGEVWI.js",
+        "/ADM-TINERET/chunk-KQYUTP6V.js",
+        "/ADM-TINERET/chunk-LCIZJ33C.js",
+        "/ADM-TINERET/chunk-T5M5AE5U.js",
+        "/ADM-TINERET/chunk-TUCXB6IQ.js",
+        "/ADM-TINERET/chunk-U4IXJJCT.js",
+        "/ADM-TINERET/chunk-XAZLOLJU.js",
+        "/ADM-TINERET/chunk-YRG36UJF.js",
+        "/ADM-TINERET/favicon.ico",
+        "/ADM-TINERET/index.html",
+        "/ADM-TINERET/main-43RQXHG6.js",
+        "/ADM-TINERET/manifest.webmanifest",
+        "/ADM-TINERET/polyfills-FFHMD2TL.js",
+        "/ADM-TINERET/styles-O72LA24K.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/assets/.nojekyll",
+        "/ADM-TINERET/assets/clean_svg.js",
+        "/ADM-TINERET/assets/i18n/es.json",
+        "/ADM-TINERET/assets/i18n/ro.json",
+        "/ADM-TINERET/assets/logo-elim.png",
+        "/ADM-TINERET/assets/logo-ineb.png",
+        "/ADM-TINERET/assets/logo_admin-192-maskable.png",
+        "/ADM-TINERET/assets/logo_admin-192.png",
+        "/ADM-TINERET/assets/logo_admin-512-maskable.png",
+        "/ADM-TINERET/assets/logo_admin-512.png",
+        "/ADM-TINERET/assets/logo_admin-trans-192.png",
+        "/ADM-TINERET/assets/logo_admin-trans-512.png",
+        "/ADM-TINERET/assets/logo_admin.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "fonts-google",
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 30,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/ADM-TINERET/assets/.nojekyll": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/ADM-TINERET/assets/clean_svg.js": "5f74bd28d612010ef826b8e57a7e44dbc2fd2978",
+    "/ADM-TINERET/assets/i18n/es.json": "5c5dafe14cf71e8cddef42b9c595e56249fbfacb",
+    "/ADM-TINERET/assets/i18n/ro.json": "4a597d74b4ce036de41d0a0304f22e18bfd1375c",
+    "/ADM-TINERET/assets/logo-elim.png": "99b88cfd8e115fd460c80a0c6657427cdb88f099",
+    "/ADM-TINERET/assets/logo-ineb.png": "e3bfdf66f266de2c300576019b37bcce521483cf",
+    "/ADM-TINERET/assets/logo_admin-192-maskable.png": "40d3f6d3e62bbb168d8e6b1a999c16a722128e10",
+    "/ADM-TINERET/assets/logo_admin-192.png": "637d17c86a08f3d0e257400432153232881451a9",
+    "/ADM-TINERET/assets/logo_admin-512-maskable.png": "f54ceb2bd666dc7552fa2a1d25ffe9e717ac35f0",
+    "/ADM-TINERET/assets/logo_admin-512.png": "bcc80aeb66508c823c5130643622f5662ad00cb1",
+    "/ADM-TINERET/assets/logo_admin-trans-192.png": "6206b3d34cd6d4d46d326ed6e28e110f68040119",
+    "/ADM-TINERET/assets/logo_admin-trans-512.png": "9d05fbf384f37fc5cf204ed9b1533033c767ec41",
+    "/ADM-TINERET/assets/logo_admin.png": "8bac855bdd4efb05ae61e307f7f9d5887fa2eaf0",
+    "/ADM-TINERET/chunk-6T22TRAT.js": "8f60886420f4be18f992c0fa794c2e4663a82b30",
+    "/ADM-TINERET/chunk-7EPM3C6Q.js": "6f69ab6b4b09cd913ea55525e78bada74a9e6c16",
+    "/ADM-TINERET/chunk-7I7ANBRH.js": "55e4ad088c8aa9a71cb0b0403cdd02e458c14ba8",
+    "/ADM-TINERET/chunk-AWYEOORA.js": "0ae17d7a6861b6e5c5d4dc305ac3d443f8dd62e6",
+    "/ADM-TINERET/chunk-DHETAKPV.js": "a7c870074b1f888bb3acd5d362a6b40722fbcbe6",
+    "/ADM-TINERET/chunk-ETTZ5CGD.js": "281a9938e6f28f05b38fd6d916d47c37b0e317e4",
+    "/ADM-TINERET/chunk-GNJGEVWI.js": "4ed3494e8783d5d6d8dbd30104e73db436c3b8e3",
+    "/ADM-TINERET/chunk-KQYUTP6V.js": "5385f1b810a149ec098e4a87d3f13de95b184572",
+    "/ADM-TINERET/chunk-LCIZJ33C.js": "b68ff146ded6a6276d665b51904ef0ae02b8dd78",
+    "/ADM-TINERET/chunk-T5M5AE5U.js": "0b4064a39439e328480a9f2869ff43e4f723ba51",
+    "/ADM-TINERET/chunk-TUCXB6IQ.js": "3a4eef7c4a68dd8d7d013016e91e8da018ab882a",
+    "/ADM-TINERET/chunk-U4IXJJCT.js": "6030ee0a30cfe67900be9853b2278124851bbfd8",
+    "/ADM-TINERET/chunk-XAZLOLJU.js": "b74f9f7c9c89d3e0833edcdc0bc0106497008129",
+    "/ADM-TINERET/chunk-YRG36UJF.js": "49635371f5d0059f89abcc000a6188ae3ab6a49d",
+    "/ADM-TINERET/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/ADM-TINERET/index.html": "702ccf63ac6381bf65fe425324a040ccb8ddf2ac",
+    "/ADM-TINERET/main-43RQXHG6.js": "3861b413266cd4c42ef8f3c761f29c503ccf0557",
+    "/ADM-TINERET/manifest.webmanifest": "632050afefa6ad62167fcd860afada911b176775",
+    "/ADM-TINERET/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/ADM-TINERET/styles-O72LA24K.css": "5cc9cc6909d545e973c8f0dc9fba2bcd225443c6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
