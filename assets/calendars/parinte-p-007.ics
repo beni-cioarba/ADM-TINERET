@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sprijin Simona Pintilei
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-5-20260515@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260515T193000
+DTEND:20260515T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-6-20261002@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261002T193000
+DTEND:20261002T230000
+SUMMARY:Program tineret — Echipa 6
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Noemi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60\n\nObservații: Primul program cu implicarea parintil
+ or 2026 - 2027
+CATEGORIES:Echipa 6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 6
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 6
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-7-20261127@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261127T193000
+DTEND:20261127T230000
+SUMMARY:Program tineret — Echipa 7
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Bereza Ionatan\nSos
+ ire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:0
+ 0\nPersoane estimate: 60
+CATEGORIES:Echipa 7
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 7
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 7
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

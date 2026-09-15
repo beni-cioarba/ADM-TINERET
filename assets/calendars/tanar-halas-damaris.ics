@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programări Halas Damaris
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-2-20251010@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251010T193000
+DTEND:20251010T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20251205@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251205T193000
+DTEND:20251205T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20260213@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260213T193000
+DTEND:20260213T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20260417@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260417T193000
+DTEND:20260417T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20260612@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260612T193000
+DTEND:20260612T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 45
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20261023@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261023T193000
+DTEND:20261023T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-2-20261211@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261211T193000
+DTEND:20261211T230000
+SUMMARY:Program tineret — Echipa 2
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Dobre David\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 2
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

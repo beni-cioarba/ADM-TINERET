@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programări Toader Ainhoa
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-5-20251031@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251031T193000
+DTEND:20251031T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-5-20260109@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260109T193000
+DTEND:20260109T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-5-20260306@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260306T193000
+DTEND:20260306T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-5-20260515@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260515T193000
+DTEND:20260515T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-5-20260918@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260918T193000
+DTEND:20260918T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-5-20261113@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261113T193000
+DTEND:20261113T230000
+SUMMARY:Program tineret — Echipa 5
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Toader Noemi\nSosir
+ e tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\
+ nPersoane estimate: 60
+CATEGORIES:Echipa 5
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programări Istrătoaie Dina
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-3-20251017@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251017T193000
+DTEND:20251017T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Ruben\nS
+ osire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20
+ :00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20251212@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251212T193000
+DTEND:20251212T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Ruben\nS
+ osire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20
+ :00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20260130@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260130T193000
+DTEND:20260130T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Ruben\nS
+ osire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20
+ :00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20260424@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260424T193000
+DTEND:20260424T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Dina\nSo
+ sire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:
+ 00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20260619@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260619T193000
+DTEND:20260619T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Dina\nSo
+ sire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:
+ 00\nPersoane estimate: 45
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20261030@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261030T193000
+DTEND:20261030T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Dina\nSo
+ sire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:
+ 00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-3-20261218@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261218T193000
+DTEND:20261218T230000
+SUMMARY:Program tineret — Echipa 3
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Istrătoaie Dina\nSo
+ sire tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:
+ 00\nPersoane estimate: 60
+CATEGORIES:Echipa 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

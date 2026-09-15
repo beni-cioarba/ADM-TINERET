@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1789482860144,
+  "index": "/ADM-TINERET/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/assets/fonts/playfair-display-600-latin.woff2",
+        "/ADM-TINERET/assets/icons.svg",
+        "/ADM-TINERET/chunk-4gOVqyKg.js",
+        "/ADM-TINERET/chunk-BJ58QPEs.js",
+        "/ADM-TINERET/chunk-Bmt6pLOI.js",
+        "/ADM-TINERET/chunk-BrcCDb8a.js",
+        "/ADM-TINERET/chunk-C97BbpTW.js",
+        "/ADM-TINERET/chunk-CMxgS0Oy.js",
+        "/ADM-TINERET/chunk-CVFiJFld.js",
+        "/ADM-TINERET/chunk-Cv1RGMox.js",
+        "/ADM-TINERET/chunk-DaGFmzz7.js",
+        "/ADM-TINERET/chunk-XSlfWnqe.js",
+        "/ADM-TINERET/chunk-Z-xQZ_4J.js",
+        "/ADM-TINERET/chunk-xqbQLww2.js",
+        "/ADM-TINERET/favicon.ico",
+        "/ADM-TINERET/index.html",
+        "/ADM-TINERET/main-KRREENXF.js",
+        "/ADM-TINERET/manifest.webmanifest",
+        "/ADM-TINERET/styles-ZANNNEHM.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/assets/.nojekyll",
+        "/ADM-TINERET/assets/clean_svg.js",
+        "/ADM-TINERET/assets/i18n/es.json",
+        "/ADM-TINERET/assets/i18n/ro.json",
+        "/ADM-TINERET/assets/logo-ineb.png",
+        "/ADM-TINERET/assets/logo_admin-192-maskable.png",
+        "/ADM-TINERET/assets/logo_admin-192.png",
+        "/ADM-TINERET/assets/logo_admin-512-maskable.png",
+        "/ADM-TINERET/assets/logo_admin-512.png",
+        "/ADM-TINERET/assets/logo_admin-72.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ADM-TINERET/assets/.nojekyll": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/ADM-TINERET/assets/clean_svg.js": "5f74bd28d612010ef826b8e57a7e44dbc2fd2978",
+    "/ADM-TINERET/assets/fonts/playfair-display-600-latin.woff2": "51d7a79b45f983506453d62b77e1604ee7f260ec",
+    "/ADM-TINERET/assets/i18n/es.json": "064acf95d5b586f6b0f5406b9ba59a71609e3329",
+    "/ADM-TINERET/assets/i18n/ro.json": "8ccd69911092922105e536fb14793afe0be511d5",
+    "/ADM-TINERET/assets/icons.svg": "e568a52bbdefe107aabee2d2015f0bfaa7dbbc24",
+    "/ADM-TINERET/assets/logo-ineb.png": "4d91280789534c95f860c83c123c520f5ca40dc9",
+    "/ADM-TINERET/assets/logo_admin-192-maskable.png": "40d3f6d3e62bbb168d8e6b1a999c16a722128e10",
+    "/ADM-TINERET/assets/logo_admin-192.png": "637d17c86a08f3d0e257400432153232881451a9",
+    "/ADM-TINERET/assets/logo_admin-512-maskable.png": "f54ceb2bd666dc7552fa2a1d25ffe9e717ac35f0",
+    "/ADM-TINERET/assets/logo_admin-512.png": "bcc80aeb66508c823c5130643622f5662ad00cb1",
+    "/ADM-TINERET/assets/logo_admin-72.png": "80d0d9f111ec89b6a7c8b3dd3aaf02a2358bc0e3",
+    "/ADM-TINERET/chunk-4gOVqyKg.js": "3cd0748ebb7b3a5cc6a2cc061a527aad764970d2",
+    "/ADM-TINERET/chunk-BJ58QPEs.js": "e9c914a18b08c0990a8a9d5a7151fccf2c238300",
+    "/ADM-TINERET/chunk-Bmt6pLOI.js": "828dbc8a5fbe23645aea3c90b951f55eee25008b",
+    "/ADM-TINERET/chunk-BrcCDb8a.js": "2415df6c05bb4a6b2ff8d15dbff275d75704c6d3",
+    "/ADM-TINERET/chunk-C97BbpTW.js": "ff5a1ce393711e9964f73e41133c9071e8eb2677",
+    "/ADM-TINERET/chunk-CMxgS0Oy.js": "58ec91d64d7b1c0a1f361c2c5bd4184b3b92cd34",
+    "/ADM-TINERET/chunk-CVFiJFld.js": "1af6a65631194019ea8e4137474dfe17d4530733",
+    "/ADM-TINERET/chunk-Cv1RGMox.js": "77cf6e808c72ecaca5cf8497a0c8a04d102ee155",
+    "/ADM-TINERET/chunk-DaGFmzz7.js": "61203d90383fb76573efc3c5e095d959e141b9dd",
+    "/ADM-TINERET/chunk-XSlfWnqe.js": "bc4e046a91678a81898ddf000550d86d51de56d7",
+    "/ADM-TINERET/chunk-Z-xQZ_4J.js": "60f1bbd135c650f325630fa205487f161ca7a352",
+    "/ADM-TINERET/chunk-xqbQLww2.js": "e70c7ff5a36c302bf799c4b92892eff528d59f0d",
+    "/ADM-TINERET/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/ADM-TINERET/index.html": "a2e2428fa2fa00740c73a7af22a7c116115afaa2",
+    "/ADM-TINERET/main-KRREENXF.js": "42ce7087bb8cce8e2abf094b5ba95fad409d94c5",
+    "/ADM-TINERET/manifest.webmanifest": "61ca197a69de49bb25a4447d1d08f8289c30c14f",
+    "/ADM-TINERET/styles-ZANNNEHM.css": "580c5e69f0ef9e4178b19ddbfd58a3c516a64432"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

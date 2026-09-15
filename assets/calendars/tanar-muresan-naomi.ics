@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programări Muresan Naomi
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-1-20250307@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20250307T193000
+DTEND:20250307T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20251128@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20251128T193000
+DTEND:20251128T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20260220@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260220T193000
+DTEND:20260220T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20260410@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260410T193000
+DTEND:20260410T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20260605@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20260605T193000
+DTEND:20260605T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 45
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20261016@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261016T193000
+DTEND:20261016T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-1-20261204@elim-admin
+DTSTAMP:20260915T143349Z
+DTSTART:20261204T193000
+DTEND:20261204T230000
+SUMMARY:Program tineret — Echipa 1
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Halas Luigi\nSosire
+  tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\n
+ Persoane estimate: 60
+CATEGORIES:Echipa 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
