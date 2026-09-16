@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ELIM Administrativ//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programări Negrusier Rut
+X-WR-CALDESC:Programări tineret — Biserica ELIM
+X-WR-TIMEZONE:Europe/Madrid
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:echipa-4-20260508@elim-admin
+DTSTAMP:20260916T114022Z
+DTSTART:20260508T193000
+DTEND:20260508T230000
+SUMMARY:Program tineret — Echipa 4
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Mic Karina\nSosire 
+ tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\nP
+ ersoane estimate: 60\n\nObservații: Primul program în care părinții vor fi
+  implicați din nou la pregătirea mesei.
+CATEGORIES:Echipa 4
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 4
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-4-20260911@elim-admin
+DTSTAMP:20260916T114022Z
+DTSTART:20260911T193000
+DTEND:20260911T230000
+SUMMARY:Program tineret — Echipa 4
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Mic Karina\nSosire 
+ tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\nP
+ ersoane estimate: 60
+CATEGORIES:Echipa 4
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 4
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:echipa-4-20261106@elim-admin
+DTSTAMP:20260916T114022Z
+DTSTART:20261106T193000
+DTEND:20261106T230000
+SUMMARY:Program tineret — Echipa 4
+LOCATION:Biserica ELIM
+DESCRIPTION:Tip program: Seară de tineret\nCoordonator: Mic Karina\nSosire 
+ tineri: 19:30\nÎnceput program: 20:30\nAducere mâncare (părinți): 20:00\nP
+ ersoane estimate: 60
+CATEGORIES:Echipa 4
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Program tineret — Echipa 4
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

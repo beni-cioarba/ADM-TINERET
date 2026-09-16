@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ro" data-beasties-container>
+<head>
+  <meta charset="utf-8">
+  <!-- El index.html no se cachea: garantiza que el SW detecte siempre la última versión. -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
+  <title>ELIM Arganda - Programare Tineret</title>
+  <base href="/ADM-TINERET/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Programarea pregătirii mesei - Departament Tineret, Biserica ELIM Arganda del Rey">
+  <!-- Vista previa al compartir el enlace (WhatsApp, Telegram, e-mail). La imagen debe ser absoluta;
+       el deploy sustituye esta URL por la del mirror en su build. -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="ELIM Tineret">
+  <meta property="og:title" content="ELIM Arganda - Programare Tineret">
+  <meta property="og:description" content="Programarea pregătirii mesei - Departament Tineret, Biserica ELIM Arganda del Rey">
+  <meta property="og:url" content="https://beni-cioarba.github.io/ADM-TINERET/">
+  <meta property="og:image" content="https://beni-cioarba.github.io/ADM-TINERET/assets/app-icon-512.png">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+  <meta property="og:locale" content="ro_RO">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Tema guardado por el usuario (ThemeService): se aplica antes del primer pintado para evitar el destello claro. -->
+  <script>try{if(localStorage.getItem('app.theme')==='dark'){document.documentElement.dataset.theme='dark';document.querySelector('meta[name="theme-color"]').content='#181d26';}}catch(e){}</script>
+  <!-- Favicon: el emblema del sello sin el anillo de texto (que a 16–32 px no se lee), en PNG de 32
+       y en favicon.ico (16/32/48) en la raíz. -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <!-- iOS recorta sus propias esquinas: la baldosa navy completa, a los 180 px que pide. -->
+  <link rel="apple-touch-icon" href="assets/app-icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="ELIM Tineret">
+  <!-- Sin fuentes externas: el wordmark (Playfair 600, latino) y los iconos (sprite SVG) viajan con la
+       app → arranque sin red, sin terceros y sin parpadeo de iconos. Iconos: `npm run icons`. -->
+  <link rel="preload" href="assets/fonts/playfair-display-600-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <!-- @font-face aquí y no en el CSS empaquetado: la URL se resuelve contra <base href>, que cambia por
+       despliegue (repo principal / mirror), y el fichero queda en assets/ (lo cachea el service worker). -->
+  <style>
+    @font-face {
+      font-family: 'Playfair Display';
+      font-style: normal;
+      font-weight: 600;
+      font-display: swap;
+      src: url('assets/fonts/playfair-display-600-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+  </style>
+<style>:root{--c-bg:#f3f2ef;--c-surface:#ffffff;--c-surface-2:#f5f4f1;--c-surface-3:#ebeae6;--c-border:#e4e2dd;--c-border-strong:#cfcbc3;--c-text:#1b2433;--c-text-2:#4b5565;--c-text-3:#6b7585;--c-primary:#0b57d0;--c-primary-hover:#0947ab;--c-primary-soft:#e7effc;--c-on-primary:#ffffff;--c-focus:var(--c-primary);--c-brand-ink:#1a365d;--c-brand-ink-hover:#122844;--c-brand-gold:#d4af37;--c-brand-gold-deep:#8a6a17;--c-brand-surface:#1a365d;--c-on-brand:#faf9f6;--c-on-brand-muted:#b9cbe6;--c-whatsapp:#25d366;--c-success:#1a7f37;--c-success-soft:#e3f5e8;--c-warning:#7a5200;--c-warning-soft:#fff4d6;--c-danger:#b42318;--c-danger-soft:#fde8e6;--team-1:#2563eb;--team-2:#7c3aed;--team-3:#047857;--team-4:#c2410c;--team-5:#dc2626;--team-6:#0e7490;--team-7:#db2777;--team-default:#64748b;--team-badge-ink:#ffffff;--font:-apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;--font-brand:"Playfair Display", Georgia, "Times New Roman", serif;--fs-xs:11px;--fs-sm:12px;--fs-md:13px;--fs-lg:15px;--fs-xl:18px;--fs-2xl:24px;--lh:1.4;--lh-tight:1.2;--sp-1:4px;--sp-2:8px;--sp-3:12px;--sp-4:16px;--sp-6:24px;--sp-8:32px;--h-header:48px;--h-nav:40px;--h-row:36px;--h-control:28px;--icon-sm:16px;--icon:18px;--icon-lg:20px;--avatar:24px;--avatar-lg:32px;--content-max:1080px;--sticky-offset:64px;--page-pad:var(--sp-3);--r-sm:4px;--r-md:8px;--r-full:999px;--shadow-card:0 1px 2px rgba(31, 27, 20, .06), 0 0 0 1px rgba(31, 27, 20, .02);--shadow-overlay:0 4px 16px rgba(15, 23, 42, .12), 0 1px 3px rgba(15, 23, 42, .08);--tone-0-bg:#dbeafe;--tone-0-fg:#1d4ed8;--tone-1-bg:#ede9fe;--tone-1-fg:#6d28d9;--tone-2-bg:#dcfce7;--tone-2-fg:#15803d;--tone-3-bg:#ffedd5;--tone-3-fg:#c2410c;--tone-4-bg:#fce7f3;--tone-4-fg:#be185d;--tone-5-bg:#ccfbf1;--tone-5-fg:#0f766e;--tone-6-bg:#fef3c7;--tone-6-fg:#b45309;--tone-7-bg:#e2e8f0;--tone-7-fg:#334155;--dur:.12s;--dur-flash:1.6s;--ease:cubic-bezier(.2, 0, 0, 1);--z-sticky:10;--z-overlay:100;color-scheme:light}@media(min-width:600px){:root{--page-pad:var(--sp-4);--h-header:64px}}@media(prefers-reduced-motion:reduce){:root{--dur:0ms;--dur-flash:0ms}}*,*:before,*:after{box-sizing:border-box;margin:0;padding:0}html{height:100%;touch-action:pan-y;-webkit-text-size-adjust:100%}body{min-height:100%;display:flex;flex-direction:column;font-family:var(--font);font-size:var(--fs-md);line-height:var(--lh);color:var(--c-text);background:var(--c-bg);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden;overscroll-behavior-y:auto}app-root{display:flex;flex-direction:column;min-height:100vh}@media print{:root{--c-bg:#fff;--c-text:#000;--c-text-2:#222;--shadow-card:none}body{background:#fff}}@media print{body{background:#fff}}</style><link rel="stylesheet" href="styles-PKK4ZXTK.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-PKK4ZXTK.css"></noscript></head>
+<body>
+  <app-root></app-root>
+<link rel="modulepreload" href="chunk-BrcCDb8a.js"><script src="main-PYUNNSYK.js" type="module"></script></body>
+</html>

@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1789558862354,
+  "index": "/ADM-TINERET/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/assets/fonts/playfair-display-600-latin.woff2",
+        "/ADM-TINERET/assets/icons.svg",
+        "/ADM-TINERET/chunk-4_r2E8Pw.js",
+        "/ADM-TINERET/chunk-B3vqUSkx.js",
+        "/ADM-TINERET/chunk-BAJk2u3D.js",
+        "/ADM-TINERET/chunk-BfoCj3Gz.js",
+        "/ADM-TINERET/chunk-BrcCDb8a.js",
+        "/ADM-TINERET/chunk-DM_hFk79.js",
+        "/ADM-TINERET/chunk-DOOGpfxA.js",
+        "/ADM-TINERET/chunk-DPmIlslv.js",
+        "/ADM-TINERET/chunk-YS2IPNsh.js",
+        "/ADM-TINERET/chunk-bxSQdkXE.js",
+        "/ADM-TINERET/chunk-mQMSbr7Z.js",
+        "/ADM-TINERET/chunk-mTEUQHjw.js",
+        "/ADM-TINERET/favicon.ico",
+        "/ADM-TINERET/index.html",
+        "/ADM-TINERET/main-PYUNNSYK.js",
+        "/ADM-TINERET/manifest.webmanifest",
+        "/ADM-TINERET/styles-PKK4ZXTK.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ADM-TINERET/assets/.nojekyll",
+        "/ADM-TINERET/assets/app-icon-180.png",
+        "/ADM-TINERET/assets/app-icon-192.png",
+        "/ADM-TINERET/assets/app-icon-512.png",
+        "/ADM-TINERET/assets/app-icon-72.png",
+        "/ADM-TINERET/assets/clean_svg.js",
+        "/ADM-TINERET/assets/favicon-32.png",
+        "/ADM-TINERET/assets/i18n/es.json",
+        "/ADM-TINERET/assets/i18n/ro.json",
+        "/ADM-TINERET/assets/logo-ineb.png",
+        "/ADM-TINERET/assets/shortcut-parents-192.png",
+        "/ADM-TINERET/assets/shortcut-teams-192.png",
+        "/ADM-TINERET/assets/shortcut-youths-192.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ADM-TINERET/assets/.nojekyll": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/ADM-TINERET/assets/app-icon-180.png": "5b0cb9b446c88202c76112437b6ab6714f63b7ba",
+    "/ADM-TINERET/assets/app-icon-192.png": "9ffda0a4a3007a8fba680c7b8ec206a037678b0c",
+    "/ADM-TINERET/assets/app-icon-512.png": "ff656ccb948608e59e39c047baac8206b4703586",
+    "/ADM-TINERET/assets/app-icon-72.png": "f87d7d921f0ae99c33ebbc069c9b37dea895502c",
+    "/ADM-TINERET/assets/clean_svg.js": "5f74bd28d612010ef826b8e57a7e44dbc2fd2978",
+    "/ADM-TINERET/assets/favicon-32.png": "52f11a1e2e24000f1e8a80d27e40f039783c3ad4",
+    "/ADM-TINERET/assets/fonts/playfair-display-600-latin.woff2": "51d7a79b45f983506453d62b77e1604ee7f260ec",
+    "/ADM-TINERET/assets/i18n/es.json": "064acf95d5b586f6b0f5406b9ba59a71609e3329",
+    "/ADM-TINERET/assets/i18n/ro.json": "8ccd69911092922105e536fb14793afe0be511d5",
+    "/ADM-TINERET/assets/icons.svg": "e568a52bbdefe107aabee2d2015f0bfaa7dbbc24",
+    "/ADM-TINERET/assets/logo-ineb.png": "4d91280789534c95f860c83c123c520f5ca40dc9",
+    "/ADM-TINERET/assets/shortcut-parents-192.png": "4afc8f05843cee08fe3f17ca27934184de36adf8",
+    "/ADM-TINERET/assets/shortcut-teams-192.png": "fe9e0c8ed8197019c5afcbb8c94669f1b669f29b",
+    "/ADM-TINERET/assets/shortcut-youths-192.png": "c32da5ba524a8d2779af8b4861c5ffff3a071e6d",
+    "/ADM-TINERET/chunk-4_r2E8Pw.js": "eb2ae086348fb68d3002a9bc2043240316d3a0a5",
+    "/ADM-TINERET/chunk-B3vqUSkx.js": "b0322598b1715cf54be0d5689a5f1622b354d41e",
+    "/ADM-TINERET/chunk-BAJk2u3D.js": "e81cb35fbd1b7a7ac7f1449d0542de13c69c5b1d",
+    "/ADM-TINERET/chunk-BfoCj3Gz.js": "6135474126568c19c59f14439695dda430f34ca9",
+    "/ADM-TINERET/chunk-BrcCDb8a.js": "2415df6c05bb4a6b2ff8d15dbff275d75704c6d3",
+    "/ADM-TINERET/chunk-DM_hFk79.js": "4611e9440cd25204677895c0b9f4d12104f51233",
+    "/ADM-TINERET/chunk-DOOGpfxA.js": "88e5792c6920bfabca2086a40f2a007bdd437f41",
+    "/ADM-TINERET/chunk-DPmIlslv.js": "20e0a764f31572934eae5201a576114400d7ee96",
+    "/ADM-TINERET/chunk-YS2IPNsh.js": "0197a34c37f0a6004600e429e969664dbaa16725",
+    "/ADM-TINERET/chunk-bxSQdkXE.js": "ba12fee990af1715974f2c90434c4461d583a064",
+    "/ADM-TINERET/chunk-mQMSbr7Z.js": "1e5bc2ba61f10d8f002d1c0cdbba56822b204e5b",
+    "/ADM-TINERET/chunk-mTEUQHjw.js": "d09e6a091150acd688b81b585ee640157674ec0a",
+    "/ADM-TINERET/favicon.ico": "349c932efe98beac4a9ee08b9c60c99dbb2c5c6a",
+    "/ADM-TINERET/index.html": "efcc498d8c59a767539eb324b26651a126737efb",
+    "/ADM-TINERET/main-PYUNNSYK.js": "4563983a3ad4aa4f23f113ca9608c9d657ed0efe",
+    "/ADM-TINERET/manifest.webmanifest": "73a7e451737ab1fb57800a812a7ab03d2745b019",
+    "/ADM-TINERET/styles-PKK4ZXTK.css": "993bbc517d064122b521f751aee1ea8e54d27942"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
